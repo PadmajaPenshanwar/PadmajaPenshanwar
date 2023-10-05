@@ -1,7 +1,7 @@
 <h1 align="center">Hey Everyone👋 I'm Padmaja Penshanwar</h1>
 <h3 align="center">Web Development | C++ | React JS</h3>
 
-
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 - 🔭 Check out my LinkedIn Profile
 
