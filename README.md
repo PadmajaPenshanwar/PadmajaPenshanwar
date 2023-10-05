@@ -9,7 +9,7 @@
 
 - 👀 I’m interested in development
 
-- 📫 How to reach me
+- 📫 How to reach me <a href="https://www.linkedin.com/in/padmaja-penshanwar-767207235/">Linkedin</a> 
 
 - 📄 Know about my experiences
 
