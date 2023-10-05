@@ -1,7 +1,7 @@
 <h1 align="center">Hey Everyone👋 I'm Padmaja Penshanwar</h1>
 <h3 align="center">Web Development | C++ | React JS</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=padmajapenshanwar&label=Profile%20views&color=0e75b6&style=flat" alt="padmajapenshanwar" /> </p>
+
 
 - 🔭 Check out my LinkedIn Profile
 
